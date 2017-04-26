@@ -1,0 +1,17 @@
+{
+  "name"    : "bower-sports",
+  "version" : "1.0.0",
+  "description": "A static file manager",
+  "private" : true,
+  "dependencies" : {
+    "fontawesome" : "latest",
+    "bootstrap"   : "4.0.0-alpha.6",
+    "tether"      : "latest",
+    "pace"     : "latest",
+    "jquery"   : "^3.2.0",
+    "chart.js" : "^2.5.0",
+    "simple-line-icons" : "latest"
+  },
+  "directory": "Content/",
+  "license": "MIT"
+}
